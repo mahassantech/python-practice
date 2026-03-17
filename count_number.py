@@ -7,3 +7,5 @@ for i in  range(1,51):
         odd=odd+1
 print('even:', even)
 print('odd:', odd)
+
+# very important for practice
